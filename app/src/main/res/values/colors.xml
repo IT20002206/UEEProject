@@ -9,4 +9,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="dark_white">#EDEEEF</color>
     <color name="green_btn">#19A54A</color>
+    <color name="forgot_red">#FF6F6F</color>
 </resources>
