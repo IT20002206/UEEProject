@@ -149,6 +149,6 @@
         app:layout_constraintEnd_toEndOf="@+id/imageButton5"
         app:layout_constraintStart_toStartOf="@+id/imageButton5"
         app:layout_constraintTop_toTopOf="@+id/imageButton5"
-        android:textSize="30dp"
+        android:textSize="25dp"
         android:textColor="@color/black"/>
 </androidx.constraintlayout.widget.ConstraintLayout>
